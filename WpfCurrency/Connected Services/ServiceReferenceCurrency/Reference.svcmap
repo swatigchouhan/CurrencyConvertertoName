@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f7403649-1cf2-4789-b2ca-3ebce1923c72" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49766/ServiceCurrency.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceCurrency.xsd" MetadataType="Schema" ID="e123a5ff-2288-43c7-a5fb-e56945717afd" SourceId="1" SourceUrl="http://localhost:49766/ServiceCurrency.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceCurrency1.xsd" MetadataType="Schema" ID="f80b732b-506c-4394-aece-0eb0dc330f44" SourceId="1" SourceUrl="http://localhost:49766/ServiceCurrency.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceCurrency2.xsd" MetadataType="Schema" ID="a85f197a-87c4-474c-99ff-3014901a9c39" SourceId="1" SourceUrl="http://localhost:49766/ServiceCurrency.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceCurrency.wsdl" MetadataType="Wsdl" ID="c646bbcb-5137-472c-91a7-2babb4583253" SourceId="1" SourceUrl="http://localhost:49766/ServiceCurrency.svc?wsdl" />
+    <MetadataFile FileName="ServiceCurrency.disco" MetadataType="Disco" ID="480ba16c-9f03-47a9-a527-51acc6a6b1e7" SourceId="1" SourceUrl="http://localhost:49766/ServiceCurrency.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

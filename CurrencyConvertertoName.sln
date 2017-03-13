@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFCurrency", "WCFCurrency\WCFCurrency.csproj", "{B18A5F00-25A2-4281-A456-7698352D6DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCurrency", "WpfCurrency\WpfCurrency.csproj", "{CCA4E631-1E8F-4491-85AF-E1F109BFB4D7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B18A5F00-25A2-4281-A456-7698352D6DAE} = {B18A5F00-25A2-4281-A456-7698352D6DAE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18A5F00-25A2-4281-A456-7698352D6DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18A5F00-25A2-4281-A456-7698352D6DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18A5F00-25A2-4281-A456-7698352D6DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18A5F00-25A2-4281-A456-7698352D6DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA4E631-1E8F-4491-85AF-E1F109BFB4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA4E631-1E8F-4491-85AF-E1F109BFB4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA4E631-1E8F-4491-85AF-E1F109BFB4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA4E631-1E8F-4491-85AF-E1F109BFB4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

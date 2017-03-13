@@ -1,0 +1,14 @@
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\bin\Debug\WpfCurrency.exe.config
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\bin\Debug\WpfCurrency.exe
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\bin\Debug\WpfCurrency.pdb
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.csprojResolveAssemblyReference.cache
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\MainWindow.g.cs
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\App.g.cs
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency_MarkupCompile.cache
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency_MarkupCompile.lref
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\MainWindow.baml
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.g.resources
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.Properties.Resources.resources
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.csproj.GenerateResource.Cache
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.exe
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WpfCurrency\obj\Debug\WpfCurrency.pdb

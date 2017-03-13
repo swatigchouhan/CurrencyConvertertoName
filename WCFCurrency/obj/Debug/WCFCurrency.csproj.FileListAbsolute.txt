@@ -1,0 +1,6 @@
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\bin\WCFCurrency.dll.config
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\bin\WCFCurrency.dll
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\bin\WCFCurrency.pdb
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\obj\Debug\WCFCurrency.csprojResolveAssemblyReference.cache
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\obj\Debug\WCFCurrency.dll
+d:\users\swchouha\documents\visual studio 2017\Projects\CurrencyConvertertoName\WCFCurrency\obj\Debug\WCFCurrency.pdb
